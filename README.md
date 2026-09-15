@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://javierhrzgt.github.io/blog-preview-card-frontend-mentor/)
 
 <!-- TODO: fill in once the project is deployed and submitted on Frontend Mentor. -->
 
