@@ -5,9 +5,9 @@
   --color-gray-950: #111111;
 
   --font-family-main: "Figtree", sans-serif;
-  --font-size-title: 1.5rem;
-  --font-size-paragraph: 1rem;
-  --font-size-information: 0.875rem;
+  --font-size-title: clamp(1.25rem, calc(1.162rem + 0.376vw), 1.5rem);
+  --font-size-paragraph: clamp(0.875rem, calc(0.831rem + 0.188vw), 1rem);
+  --font-size-information: clamp(0.75rem, calc(0.706rem + 0.188vw), 0.875rem);
 
   --line-height-base: 150%;
 
